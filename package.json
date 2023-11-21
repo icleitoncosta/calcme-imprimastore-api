@@ -71,7 +71,7 @@
     "file-type": "~16.5.4",
     "fs": "^0.0.1-security",
     "jest": "^29.4.2",
-    "node-fetch": "^3.3.0",
+    "node-fetch": "^3.3.2",
     "parse-data-url": "^4.0.1",
     "playwright-chromium": "^1.30.0",
     "prettier": "^2.8.8",
