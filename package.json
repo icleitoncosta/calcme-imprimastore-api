@@ -70,7 +70,7 @@
     "eventemitter2": "^6.4.9",
     "file-type": "~16.5.4",
     "fs": "^0.0.1-security",
-    "jest": "^29.4.2",
+    "jest": "^29.7.0",
     "node-fetch": "^3.3.0",
     "parse-data-url": "^4.0.1",
     "playwright-chromium": "^1.30.0",
